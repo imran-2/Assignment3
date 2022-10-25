@@ -1,0 +1,27 @@
+footer{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    color: rgb(168, 158, 158);
+    font-size: xx-large;
+    font-weight: 1000;
+    font-style: initial;
+}
+#card-id{
+    background-image: url('./bomb.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;;
+}
+.card-body{
+  background-color:#b2b2b2;
+}
+.logo{
+  width:50px;
+  padding:auto;
+}
+.my-hover h4:hover {
+  color:black;
+  padding:10px;
+}
